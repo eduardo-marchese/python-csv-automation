@@ -1,1 +1,7 @@
-.
+name,email,age,country,signup_date
+John Thompson,john.thompson@example.com,34,United States,2023-05-12
+Emily Carter,emily.carter@email.com,28,United Kingdom,2022-11-03
+Michael Brown,michael.brown@gmail.com,,Canada,2021-08-19
+Anna Wilson,anna.wilson@company.com,,United States,2024-01-07
+Robert Smith,robert.smith@mail.com,45,United States,2020-02-25
+Lucy Parker,lucy.parker@email.com,31,Australia,2023-09-14
